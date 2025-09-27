@@ -25,3 +25,17 @@ Me sorprendió lo realista y creativa que puede ser la IA , dándole instruccion
 **Nombre:** Zumbarda Villanueva Johani Berenice 
 
 El uso de la IA para mi llegó a ser un poco diferente, no es algo con lo que esté familiarizada pero pude buscar y experimentar con ella al igual saber que beneficios y que puede llegar a perjudicarme si se usa de manera constante y sin seguridad.
+
+|Nombre | Link | Puntaje|
+| --- | --- | --- |
+| Alvarado Arana Miguel Alfonso| https://docs.google.com/document/d/1T1PW6CVBw_59KgNndP0oOIaKfxFrw5HkBlPkjJbS4hg/edit?usp=drivesdk | 4/7 |
+| --- | --- | --- |
+|Ayala Chacon Guillermo Andres | https://docs.google.com/document/d/1qxIQlhxMbMQM7Z7QC5DQNxuW9jtRcKsdM8k8wckf66Q/edit?usp=sharing | 4/7 |
+| --- | --- | --- |
+Galindo Villalobos Yoshi | https://docs.google.com/document/d/1svJkAIo3VeCzZToyut4YBS5LhQkcSemO3RUh_UkKclA/edit?usp=sharing | 5/7|
+| --- | --- | ---|
+|Guizar Gongora Josue| https://docs.google.com/document/d/1ZHOwmWyQcqPYEjaqM2nQ9SP2zFENr7npDXgkAqMw2BE/edit?usp=sharing | 3/7 |
+| --- | --- | --- |
+|Nuñez Hau Erick Alejandro| https://docs.google.com/document/d/1GKfEaAAtbUQdgklmiBDL9wM36R9AJ50Bh4ZX_VIyJK0/edit?tab=t.0 | 2/7 |
+| --- | --- | --- |
+| Zumbarda Villanueva Johani Berenice| https://docs.google.com/document/d/1_uUIqMNd1Wa2f5V4NqmrA93FK-AxRTQLH_avGNMUj0Y/edit?usp=sharing | 6/7 |
